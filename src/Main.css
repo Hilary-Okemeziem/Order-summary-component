@@ -1,0 +1,17 @@
+.box{
+    background-color: white;
+    width: 330px;
+    height: 500px;
+    border-radius: 20px ;
+    margin-top: 50px;
+    box-sizing: border-box; 
+    box-shadow: 10px 5px  15px #ccc;
+
+}
+
+.img1{
+    width: 20.7rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}

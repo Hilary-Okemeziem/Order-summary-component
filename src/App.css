@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+body{
+  background-color:  hsl(225, 100%, 94%);
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: grid;
+}
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +46,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+

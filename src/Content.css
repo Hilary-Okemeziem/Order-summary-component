@@ -1,0 +1,22 @@
+.container{
+    width: 90%;
+  }
+  
+.box2{
+background-color: hsl(225, 100%, 98%);
+border-radius: 10px;
+padding: 2px;
+width: 100%;
+margin-left: 0.1rem;
+}
+
+.btn-size{
+    width: 100%;
+    box-shadow: 0px 5px  15px rgb(150, 150, 241);
+}
+
+/* .grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+} */
+
